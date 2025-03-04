@@ -4,8 +4,7 @@ Licence Economie - **Paris 1**
 CACES 1,3,5 - **Camas Paris-Roissy**
 TSSR (en cours) - **Wild Code School**
 
-Technicien informatique (1 an) - **Warning+** 
-
+Technicien informatique (1 an) - **Warning+**  
 _Réparation et paramétrage réseau d'imprimantes_
 
 Hobbies : jeux vidéos
