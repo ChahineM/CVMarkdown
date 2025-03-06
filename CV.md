@@ -1,5 +1,5 @@
 
-* Présentation  ![Photo](https://i.ibb.co/HkYHHWG/9p-Z0-Ng6-4.jpg)
+* Présentation  ![Photo](https://i.ibb.co/HkYHHWG/9p-Z0-Ng6-4.jpg)  
   Je m'appelle Chahine, j'ai 27 ans, j'habite à Sevran, je suis étudiant à la Wild Code School Paris en TSSR - 
 
 * Formation  
