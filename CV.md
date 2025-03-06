@@ -1,5 +1,5 @@
 * Présentation  
-  Je m'appelle Chahine, j'ai 27 ans, j'habite à Sevran, je suis étudiant à la Wild Code School Paris en TSSR - ![Photo](https://image.noelshack.com/fichiers/2025/10/4/1741249739-9pz0ng6.jpeg)
+  Je m'appelle Chahine, j'ai 27 ans, j'habite à Sevran, je suis étudiant à la Wild Code School Paris en TSSR - ![Photo](https://image.noelshack.com/fichiers/2025/10/4/1741249921-9pz0ng6-1.jpeg)
 
 * Formation  
   Licence Economie - **Paris 1**
